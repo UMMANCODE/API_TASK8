@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Code Academy\\API\\TASK8\\TASK3_Api\\wwwroot\\images\\students\\1589e56e-462f-4b2c-a3d2-37594f83e20f1_44KZRAupREHKCL1zIjjDig.png",
+      "PackagePath": "staticwebassets\\images\\students\\1589e56e-462f-4b2c-a3d2-37594f83e20f1_44KZRAupREHKCL1zIjjDig.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Code Academy\\API\\TASK8\\TASK3_Api\\wwwroot\\images\\students\\2d9c97b8-7e54-4b0a-a526-c09810130a50default.png",
+      "PackagePath": "staticwebassets\\images\\students\\2d9c97b8-7e54-4b0a-a526-c09810130a50default.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Code Academy\\API\\TASK8\\TASK3_Api\\wwwroot\\images\\students\\6055c7d6-8cf1-4b6a-be42-9453939f342ddefault.png",
+      "PackagePath": "staticwebassets\\images\\students\\6055c7d6-8cf1-4b6a-be42-9453939f342ddefault.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Code Academy\\API\\TASK8\\TASK3_Api\\wwwroot\\images\\students\\c4ed4e35-2ed1-4a2e-9f00-4c24ec3691a7137191653.png",
+      "PackagePath": "staticwebassets\\images\\students\\c4ed4e35-2ed1-4a2e-9f00-4c24ec3691a7137191653.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Code Academy\\API\\TASK8\\TASK3_Api\\wwwroot\\images\\students\\d2660e8e-edaa-4b84-b091-8fa1a4b7c5971_44KZRAupREHKCL1zIjjDig.png",
+      "PackagePath": "staticwebassets\\images\\students\\d2660e8e-edaa-4b84-b091-8fa1a4b7c5971_44KZRAupREHKCL1zIjjDig.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.TASK3_Api.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.TASK3_Api.props",
+      "PackagePath": "build\\TASK3_Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.TASK3_Api.props",
+      "PackagePath": "buildMultiTargeting\\TASK3_Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.TASK3_Api.props",
+      "PackagePath": "buildTransitive\\TASK3_Api.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
